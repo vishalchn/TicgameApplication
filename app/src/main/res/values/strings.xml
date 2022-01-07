@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tic Game</string>
+    <string name="grid">Our main grid</string>
+    <string name="firstPlayerTurn">PLAYER 1\'S TURN</string>
+    <string name="secondPlayerTurn">PLAYER 2\'S TURN</string>
+
+    <string name="fFirstMatch">!! PLAYER\'1 won the first match !!</string>
+    <string name="sFirstMatch">!! PLAYER\'2 won the first match !!</string>
+
+    <string name="fSecondMatch">!! PLAYER\'1 won the second match !!</string>
+    <string name="sSecondMatch">!! PLAYER\'2 won the second match !!</string>
+
+    //winner of series
+    <string name="draw">"!! Match is draw !!"</string>
+    <string name="firstPlayerWon">!! PLAYER\'1 has won the series !!</string>
+    <string name="secondPlayerWon">!! PLAYER\'2 has won the series !!</string>
+
+    // mainActivity string
+    <string name="heading">Well come to Tic-tac-teo</string>
+    <string name="playWithComputerButton">VS COMPUTER</string>
+    <string name="playWithFriendsButton">PLAY WITH FRIENDS</string>
+
+</resources>
