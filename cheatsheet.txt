@@ -1,0 +1,11 @@
+touch .gitignore
+git config --global user.name Vishal
+git config --global user.email codewithvis@gmail.com
+git init                           // initialize git repository
+git add.                           // add to steching area
+git commit -m "Initial commit"     //created commit
+git status                         //just to see
+ssh-keygen -t ed25519 -C "codewithvis@example.com"
+tail <path to id_rsa.pub>          // add this key to github account[ssh key]
+git remote add origin <ssh url.git>
+git push origin master
